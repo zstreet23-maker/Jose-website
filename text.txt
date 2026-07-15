@@ -1,0 +1,111 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>St Jose Woodwork & Renovations | Transforming Houses Into Homes</title>
+
+    <meta name="description" content="Licensed & Insured home remodeling contractor serving Upstate South Carolina. Decks, fencing, roofing, painting, plumbing, and renovations.">
+
+    <link rel="stylesheet" href="assets/css/style.css">
+
+    <link rel="preconnect" href="https://fonts.googleapis.com">
+    <link href="https://fonts.googleapis.com/css2?family=Montserrat:wght@400;500;600;700;800&display=swap" rel="stylesheet">
+</head>
+
+<body>
+
+<header class="header">
+
+    <div class="container">
+
+        <div class="logo">
+
+            <h2>St Jose</h2>
+            <span>Woodwork & Renovations</span>
+
+        </div>
+
+        <nav>
+
+            <ul>
+
+                <li><a href="index.html">Home</a></li>
+                <li><a href="services.html">Services</a></li>
+                <li><a href="gallery.html">Gallery</a></li>
+                <li><a href="about.html">About</a></li>
+                <li><a href="estimate.html">Free Estimate</a></li>
+                <li><a href="contact.html">Contact</a></li>
+
+            </ul>
+
+        </nav>
+
+        <a class="call-button" href="tel:8645169410">
+            Call / Text
+        </a>
+
+    </div>
+
+</header>
+
+<section class="hero">
+
+    <div class="hero-overlay">
+
+        <div class="hero-content">
+
+            <h1>
+                Transforming Houses Into Homes
+            </h1>
+
+            <p>
+
+                Professional decks, fencing, roofing,
+                remodeling, painting, plumbing and home
+                renovations throughout Upstate South Carolina.
+
+            </p>
+
+            <div class="hero-buttons">
+
+                <a href="estimate.html" class="gold-btn">
+
+                    Book a Free Estimate
+
+                </a>
+
+                <a href="tel:8645169410" class="outline-btn">
+
+                    Call (864) 516-9410
+
+                </a>
+
+            </div>
+
+        </div>
+
+    </div>
+
+</section>
+
+<section class="intro">
+
+    <div class="container">
+
+        <h2>
+            Quality Craftsmanship You Can Trust
+        </h2>
+
+        <p>
+
+            At St Jose Woodwork & Renovations, we take pride in
+            helping homeowners throughout Upstate South Carolina
+            improve, repair, and transform their homes with
+            dependable workmanship and honest service.
+
+        </p>
+
+    </div>
+
+</section>
