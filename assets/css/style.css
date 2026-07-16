@@ -585,3 +585,141 @@ transform:scale(1.1);
 
 }
 
+<!DOCTYPE html>
+<html lang="en">
+
+<head>
+
+<meta charset="UTF-8">
+
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+
+<title>Free Estimate | St Jose Woodwork & Renovations</title>
+
+<link rel="stylesheet" href="assets/css/style.css">
+
+</head>
+
+<body>
+
+<header class="header">
+
+<div class="container">
+
+<div class="logo">
+
+<h2>St Jose</h2>
+
+<span>Woodwork & Renovations</span>
+
+</div>
+
+<nav>
+
+<ul>
+
+<li><a href="index.html">Home</a></li>
+
+<li><a href="services.html">Services</a></li>
+
+<li><a href="gallery.html">Gallery</a></li>
+
+<li><a href="about.html">About</a></li>
+
+<li><a href="estimate.html">Estimate</a></li>
+
+<li><a href="contact.html">Contact</a></li>
+
+</ul>
+
+</nav>
+
+<a href="tel:8645169410" class="call-button">Call / Text</a>
+
+</div>
+
+</header>
+
+<section class="intro">
+
+<div class="container">
+
+<h1>Request a Free Estimate</h1>
+
+<p>
+
+Tell us about your project and we'll contact you to schedule your free estimate.
+
+</p>
+
+</div>
+
+</section>
+
+<section class="services">
+
+<div class="container">
+
+<form class="estimate-form">
+
+<input type="text" placeholder="Full Name" required>
+
+<input type="tel" placeholder="Phone Number" required>
+
+<input type="email" placeholder="Email Address">
+
+<select required>
+
+<option value="">Select a Service</option>
+
+<option>Deck Construction</option>
+
+<option>Fencing</option>
+
+<option>Roofing</option>
+
+<option>Kitchen Remodeling</option>
+
+<option>Painting</option>
+
+<option>Plumbing</option>
+
+<option>General Renovations</option>
+
+</select>
+
+<textarea rows="6" placeholder="Tell us about your project..."></textarea>
+
+<button class="gold-btn" type="submit">
+
+Request Free Estimate
+
+</button>
+
+</form>
+
+</div>
+
+</section>
+
+<footer>
+
+<div class="container">
+
+<h3>St Jose Woodwork & Renovations</h3>
+
+<p>Serving Upstate South Carolina</p>
+
+<p>(864) 516-9410</p>
+
+<p>stjosephwoodworks20@gmail.com</p>
+
+</div>
+
+</footer>
+
+<script src="assets/js/script.js"></script>
+
+</body>
+
+</html>
